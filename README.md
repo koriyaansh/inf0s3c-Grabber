@@ -1,9 +1,10 @@
 <h1 align="center">
-   Blank Grabber
+   inf0s3c Grabber
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png">
+   <img  src="![image](https://github.com/user-attachments/assets/5f3a97f4-8359-44cb-a2cd-118d211d7e9b)
+">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
